@@ -39,7 +39,7 @@ while int(A) == 0:
 
 
 B = input("What is your number for B? ")
-C = input("What is your number for C? ")htdf
+C = input("What is your number for C? ")
 # input for B and C
 
 
